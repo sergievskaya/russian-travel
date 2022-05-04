@@ -20,7 +20,8 @@
         gap: 16px;
         grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
         grid-template-rows: repeat(auto-fit, minmax(264px, 1fr));
-        margin: 88px auto;
+        margin-top: 88px;
+        margin-bottom: 88px;
         max-width: calc(100% - 24px*2);
     }
 }
@@ -29,7 +30,8 @@
         gap: 12px;
         grid-template-columns: repeat(auto-fit, minmax(288px, 1fr));
         grid-template-rows: repeat(auto-fit, minmax(216px, 1fr));
-        margin: 64px auto;
+        margin-top: 64px;
+        margin-bottom: 64px;
         max-width: calc(100% - 16px*2);
     }
 }
