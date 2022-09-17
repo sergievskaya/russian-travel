@@ -12,6 +12,6 @@
 * _Адаптивная вёрстка_
 * _медиа-запросы_
 
-**Ссылка на GitHub Pages:**
+**Ссылка на GitHub Pages: **
 
 https://sergievskaya.github.io/russian-travel/
